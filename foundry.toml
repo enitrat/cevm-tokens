@@ -1,0 +1,6 @@
+[profile.default]
+src = "solidity_contracts/src"
+out = "solidity_contracts/out"
+libs = ["solidity_contracts/lib"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
